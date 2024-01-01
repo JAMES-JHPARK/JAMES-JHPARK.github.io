@@ -6,8 +6,7 @@ writer: JHPARK
 tags:
   - [활성화함수, Activation Function, Sigmoid, ReLU, Leaky-ReLU]
   
-permalink: none
-# none : /:categories/:title:output_ext
+permalink: '/:categories/:title'
 
 toc: true
 toc_sticky: true
